@@ -1,3 +1,8 @@
 # Theory-of-Machine
 SILDER_CRANCK_4_LINKS_MECHANISM
-![alt-text](link)
+
+
+
+
+
+![1st](change_points.gif)
